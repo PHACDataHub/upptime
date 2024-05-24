@@ -7,6 +7,8 @@ sites:
     url: backstage.alpha.phac-aspc.gc.ca
   - name: Safe Inputs POC
     url: safeinputs.alpha.phac-aspc.gc.ca
+  - name: HOPIC POC
+    url: hopic-sdpac.data-donnes.phac-aspc.gc.ca
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
