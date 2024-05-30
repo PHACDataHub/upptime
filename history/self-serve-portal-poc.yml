@@ -1,7 +1,7 @@
 url: backstage.alpha.phac-aspc.gc.ca
-status: down
-code: 503
-responseTime: 290
-lastUpdated: 2024-05-30T18:19:47.177Z
+status: up
+code: 200
+responseTime: 910
+lastUpdated: 2024-05-30T18:37:04.782Z
 startTime: 2024-05-23T13:52:48.744Z
 generator: Upptime <https://github.com/upptime/upptime>
