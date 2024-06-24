@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "self-serve-portal-poc",
     "status": "up",
-    "uptime": "99.01%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.97%",
-    "uptimeYear": "99.01%",
+    "uptimeYear": "99.03%",
     "time": 461,
     "timeDay": 341,
     "timeWeek": 566,
-    "timeMonth": 468,
+    "timeMonth": 465,
     "timeYear": 461,
     "dailyMinutesDown": {
       "2024-06-14": 19,
@@ -29,7 +29,7 @@
     "url": "safeinputs.alpha.phac-aspc.gc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "safe-inputs-poc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,9 +38,11 @@
     "time": 447,
     "timeDay": 391,
     "timeWeek": 451,
-    "timeMonth": 456,
+    "timeMonth": 446,
     "timeYear": 447,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-24": 0
+    }
   },
   {
     "name": "HOPIC POC",
